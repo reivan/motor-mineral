@@ -26,7 +26,7 @@ How to do it in Vim:
 4. start typing replace command (`:s/`)
 5. paste Filter from a register (`Ctrl+R "`)
 6. type Table (`/Table`)
-7. don't forget to make replace global (`/Table/g`)
+7. don't forget to make replace global (`/g`)
 8. press Enter to run the command
 
 Why vim requires more keystrokes to do the same action? What am I doing wrong?

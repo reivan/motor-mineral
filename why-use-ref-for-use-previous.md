@@ -42,3 +42,7 @@ export function usePrevious<T>(value: T): T | undefined {
 My question is why? Why is `useRef` better than a plain JavaScript variable?
 
 [React coding question]: https://bigfrontend.dev/react/usePrevious
+
+## TODO
+
+- https://www.developerway.com/posts/implementing-advanced-use-previous-hook

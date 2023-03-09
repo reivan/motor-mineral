@@ -4,7 +4,7 @@ I have a Raspberry Pi running at home. I usually connect via an overlay network 
 
 I found [a video][1] explaining Cloudflare Tunnels on YouTube. Maybe I could use this insted?
 
-This might also solve my root CNAME problem (using cloudflare nameservers instead of ovh).
+This might also solve [my root CNAME problem][cname] (by using cloudflare nameservers instead of ovh).
 
 ## References
 
@@ -13,3 +13,4 @@ This might also solve my root CNAME problem (using cloudflare nameservers instea
 - [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/)
 
 [1]: https://youtu.be/ZvIdFs3M5ic
+[cname]: https://t.me/infinity_shrimp/42
